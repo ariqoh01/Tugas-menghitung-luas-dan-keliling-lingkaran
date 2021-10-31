@@ -13,11 +13,11 @@ Keliling = 2 × π × r
 
 ## Flowchart 
 
-![Gambar 1](Ss/flowchart.png)
+![Gambar 1](Ss/flowchart.png) 
 
 ## Program
 
-![Gambar 3](Ss/Screenshot 2.png)
+ ![Gambar 2](Ss/Screenshot1.png)
 
 ## Penjelasan
 
@@ -27,6 +27,6 @@ Begitu juga dengan variable kel (keliling), namun variable ini memiliki rumus ya
 
 ### Ouput
 
-![Gambar 3](Ss/Screenshot 2.png)
+![Gambar 3](Ss/Screenshot2.png)
 
 ### TERIMA KASIH
