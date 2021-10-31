@@ -13,7 +13,7 @@ Keliling = 2 × π × r
 
 ## Flowchart 
 
-![Gambar 1](Ss/flowchart.png) 
+![Gambar 1](Ss/Flowchart.png) 
 
 ## Program
 
